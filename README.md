@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Node.js
 - 💬 Ask me about Java/Kotlin
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulyanovskk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilchulakov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image](https://user-images.githubusercontent.com/45203116/153231477-831fb32d-2387-4735-a845-1e8b35c3c5c7.png)
