@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Distributed Systems
-- 👯 I’m looking to collaborate on Ktor and DevOps
+- 👯 I’m looking to collaborate on Ktor and SRE
 - 💬 Ask me about Java/Kotlin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilchulakov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
