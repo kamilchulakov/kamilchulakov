@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Distributed Systems
-- 👯 I’m looking to collaborate on Ktor and SRE
-- 💬 Ask me about Java/Kotlin
+- 🌱 I’m currently learning how to make an average awful database in Kotlin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilchulakov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
