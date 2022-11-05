@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently stuck in educational stuff
+- 🌱 I’m currently stuck on educational stuff
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilchulakov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
